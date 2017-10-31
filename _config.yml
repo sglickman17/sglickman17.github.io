@@ -1,18 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+ # 'jekyll serve'. If you change this file, please restart the server process.
+  
+  # Site settings
 title: Updating ... More about Sammy G coming soon
 email: sammy.glickman@gmail.com
-description:Believe it or not, Sam's Site isn’t built yet. Please leave a message at the beep. I must be working on this, or this sit would be cooler. What could I be doing? Believe it or not, I’m workign on the site!
-baseurl: "sammyglickman" # the subpath of your site, e.g. /blog
-url: "http://sammyglickman.com" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+   baseurl: "" # the subpath of your site, e.g. /blog
+   url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  sglickman17
-
-# Build settings
-markdown: kramdown
+  
+  # Build settings
+  markdown: kramdown
