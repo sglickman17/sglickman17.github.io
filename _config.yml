@@ -8,9 +8,8 @@
 # Site settings
 title: Updating ... More about Sammy G coming soon
 email: sammy.glickman@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Believe it or not, Sam's Site isn’t built yet. Please leave a message at the beep. I must be working on this, or this sit would be cooler. What could I be doing? Believe it or not, I’m workign on the site!
-baseurl: "" # the subpath of your site, e.g. /blog
+description:Believe it or not, Sam's Site isn’t built yet. Please leave a message at the beep. I must be working on this, or this sit would be cooler. What could I be doing? Believe it or not, I’m workign on the site!
+baseurl: "sammyglickman" # the subpath of your site, e.g. /blog
 url: "http://sammyglickman.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  sglickman17
